@@ -1,0 +1,5 @@
+vendor/*
+logs/*
+phinx.yml
+.index.php.swp
+composer.lock
